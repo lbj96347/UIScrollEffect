@@ -1,0 +1,151 @@
+TPods-ViewUtils
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch Pods-ViewUtils-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053226AEF00000000000003B4
+t1394764527
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AF4000000000000019E
+t1394764532
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o
+t1395993302
+s3468
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils.LinkFileList
+c0000000053352AD4000000000000014D
+t1395993300
+s333
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o
+t1395993302
+s98380
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch
+t1395993302
+s123084
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a
+t1395993302
+s102224
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m
+c0000000053352A780000000000000084
+t1395993208
+s132
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-prefix.pch
+c0000000053352A78000000000000004D
+t1395993208
+s77
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-environment.h
+c0000000053352A780000000000000344
+t1395993208
+s836
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.h
+c0000000053352A760000000000000DB2
+t1395993206
+s3506
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m
+c0000000053352A760000000000002DAA
+t1395993206
+s11690
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies802d93c17de5b841^829193c17de5b841^---0#1#1#--18"Check dependencies36"C4B59744-B3A8-42ED-AA37-FA24F10D0601-
+
+CCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.065491
+e417686102.101876
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m271"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o Pods-ViewUtils-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77dc105662e5b841^be141a5662e5b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m0000000000000000^4796"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o Pods-ViewUtils-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-dummy.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils-dummy.o36"7FEDF431-F7A8-4A4C-BF00-A5D45EDBC7A8-
+b3B259807-8363-48C0-952E-3FE6CEF9491E
+
+CCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.065673
+e417686102.182020
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m269"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o ViewUtils/ViewUtils/ViewUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5ce6105662e5b841^6b9b2e5662e5b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m0000000000000000^4770"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o ViewUtils/ViewUtils/ViewUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/ViewUtils.o36"616C5215-F103-4922-BDB1-E43A50FF21FE-
+b3B259807-8363-48C0-952E-3FE6CEF9491E
+
+CLibtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a normal i386
+s417686102.182589
+e417686102.188167
+r1
+xLibtool
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a normal i386131"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a normal i38631cf2e5662e5b841^a12c305662e5b841^---0#0#1#--1483"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a normal i386    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -filelist /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Objects-normal/i386/Pods-ViewUtils.LinkFileList -framework Foundation -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a36"6F5649CB-7BC8-4B90-846E-AEDFDBD43871-
+b3B259807-8363-48C0-952E-3FE6CEF9491E
+
+CProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch Pods-ViewUtils-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686100.997755
+e417686102.064952
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch
+xPods-ViewUtils-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-prefix.pch
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile Pods-ViewUtils-prefix.pch279"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch Pods-ViewUtils-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerafebff5462e5b841^27a1105662e5b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-prefix.pch0000000000000000^4639"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch Pods-ViewUtils-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/Pods-ViewUtils-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ViewUtils.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.d -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-ViewUtils-prefix.pch -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-ViewUtils-prefix-aazivcqcwfttmzavgqtsjtepgezi/Pods-ViewUtils-prefix.pch.pch36"B61BA13C-A247-432F-AE13-DB9BB185680B-
+b3B259807-8363-48C0-952E-3FE6CEF9491E
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/test_yiscrollview-bepsrtirjjtgrratfcvtovlwragr/Index/PrecompiledHeaders/Pods-ViewUtils-prefix-djavndheqnxnpcagagfwmynsfwve_ast/Pods-ViewUtils-prefix.pch.pch Pods-ViewUtils-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

@@ -1,0 +1,224 @@
+TPods-YIFullScreenScroll
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053226AEF00000000000003B4
+t1394764527
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AF4000000000000019E
+t1394764532
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o
+t1395993302
+s3540
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll.LinkFileList
+c0000000053352AD60000000000000235
+t1395993302
+s565
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o
+t1395993302
+s46572
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o
+t1395993302
+s154416
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch
+t1395993302
+s125400
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch
+t1395993302
+s123344
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a
+t1395993302
+s206824
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/JRSwizzle/JRSwizzle.h
+c0000000053352A7200000000000001D3
+t1395993202
+s467
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m
+c0000000053352A780000000000000096
+t1395993208
+s150
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch
+c0000000053352A78000000000000004D
+t1395993208
+s77
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-environment.h
+c0000000053352A780000000000000344
+t1395993208
+s836
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.h
+c0000000053352A760000000000000DB2
+t1395993206
+s3506
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.h
+c0000000053352A78000000000000016B
+t1395993208
+s363
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m
+c0000000053352A780000000000000B5A
+t1395993208
+s2906
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.h
+c0000000053352A780000000000001073
+t1395993208
+s4211
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m
+c0000000053352A78000000000000706B
+t1395993208
+s28779
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescee093c17de5b841^2d0994c17de5b841^---0#1#1#--18"Check dependencies36"33D87D5F-A2EC-4B42-8559-80AF1C45DE8E-
+
+CCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.228129
+e417686102.256784
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m298"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o Pods-YIFullScreenScroll-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler527e3a5662e5b841^73bd415662e5b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m0000000000000000^5003"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o Pods-YIFullScreenScroll-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-dummy.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll-dummy.o36"7B5A7AA6-D541-4CE5-BA5E-C9CC6541437B-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.228428
+e417686102.279062
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.h
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.h
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/JRSwizzle/JRSwizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m337"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e933a5662e5b841^c572475662e5b841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m0000000000000000^5127"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/UIViewController+YIFullScreenScroll.o36"B791D7E2-D03E-432F-B7B9-1CC091323FD9-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CCompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.228637
+e417686102.343644
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.h
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/UIViewController+YIFullScreenScroll.h
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/ViewUtils/ViewUtils/ViewUtils.h
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/JRSwizzle/JRSwizzle.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m303"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o YIFullScreenScroll/Classes/YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ea23a5662e5b841^44fc575662e5b841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m0000000000000000^5025"CompileC /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o YIFullScreenScroll/Classes/YIFullScreenScroll.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/YIFullScreenScroll/Classes/YIFullScreenScroll.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/YIFullScreenScroll.o36"E5BF2A20-077F-46FE-9DD8-63BB126DDB68-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CLibtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a normal i386
+s417686102.344263
+e417686102.350642
+r1
+xLibtool
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a normal i386140"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a normal i3862236585662e5b841^2ac6595662e5b841^---0#0#1#--1519"Libtool /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a normal i386    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -filelist /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Objects-normal/i386/Pods-YIFullScreenScroll.LinkFileList -framework Foundation -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a36"3C2246D5-B923-4DBA-9AE5-DFACAE039DF3-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.191764
+e417686102.227574
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch
+xPods-YIFullScreenScroll-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Pods-YIFullScreenScroll-prefix.pch306"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler452d315662e5b841^06463a5662e5b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch0000000000000000^4862"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.d -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-bqlhpeadqdwrejdzogpmbgrrcbbc/Pods-YIFullScreenScroll-prefix.pch.pch36"7F311E98-0D62-4301-A4ED-0797E09991C4-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.191514
+e417686102.227566
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch
+xPods-YIFullScreenScroll-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Pods-YIFullScreenScroll-prefix.pch306"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerde21315662e5b841^6c423a5662e5b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch0000000000000000^4828"ProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/Pods-YIFullScreenScroll-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/BuildHeaders/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-YIFullScreenScroll.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.d -c /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-YIFullScreenScroll-prefix.pch -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-gialltcdyinpbaentozohfstvhpk/Pods-YIFullScreenScroll-prefix.pch.pch36"3CF815E5-CC98-4856-B6F6-5939784F2F0F-
+b501DDB2E-E298-4908-8E60-18C17CCDF97C
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/test_yiscrollview-bepsrtirjjtgrratfcvtovlwragr/Index/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-crsdufncilwcregnrmrvrtafqbcb_ast/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/test_yiscrollview-bepsrtirjjtgrratfcvtovlwragr/Index/PrecompiledHeaders/Pods-YIFullScreenScroll-prefix-ebswsanbjlmsqxgrglaxbnofkanm_ast/Pods-YIFullScreenScroll-prefix.pch.pch Pods-YIFullScreenScroll-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

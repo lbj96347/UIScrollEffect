@@ -1,0 +1,16 @@
+PODS:
+  - JRSwizzle (1.0)
+  - ViewUtils (1.1.2)
+  - YIFullScreenScroll (1.3.1):
+    - JRSwizzle (~> 1.0)
+    - ViewUtils (~> 1.1)
+
+DEPENDENCIES:
+  - YIFullScreenScroll
+
+SPEC CHECKSUMS:
+  JRSwizzle: 6242ff38485d870fc2636899048ee1ab883ae587
+  ViewUtils: e0b147bd0b2acfbf6b030f6a32b0c2bdd959df68
+  YIFullScreenScroll: d1ea2880af61f1701de44b4982f77e55adb86c4e
+
+COCOAPODS: 0.29.0

@@ -1,0 +1,37 @@
+Contents of /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Prefix.pch
+-x
+objective-c
+-arch
+i386
+-std=gnu99
+-fobjc-arc
+-fmodules
+-fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DCOCOAPODS=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=7.1
+-iquote
+-iquote
+-I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include
+-I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers
+-I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle
+-I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils
+-I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll
+-F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator
+-isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers
+-isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle
+-isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils
+-isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll
+i386-apple-darwin13.1.0
+"4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.38)"
+SDK_PRODUCT_BUILD_VERSION=11D167
+11D167

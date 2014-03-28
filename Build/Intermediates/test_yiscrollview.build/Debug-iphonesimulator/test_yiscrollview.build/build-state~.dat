@@ -1,0 +1,387 @@
+Ttest_yiscrollview
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh
+cDataModelVersionCompile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld
+cProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch test_yiscrollview/test_yiscrollview-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview normal i386
+cCopyStringsFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings test_yiscrollview/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets
+cProcessInfoPlistFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist
+cGenerateDSYMFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053226AEF00000000000003B4
+t1394764527
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AF4000000000000019E
+t1394764532
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000053226AF500000000006CED60
+t1394764533
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053226AF50000000000446820
+t1394764533
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053226AF6000000000088D8C0
+t1394764534
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053226AF90000000001F1DE10
+t1394764537
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch
+t1395993303
+s118088
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o
+t1395993303
+s77136
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o
+t1395993303
+s3636
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/test_yiscrollview.LinkFileList
+c0000000053352AD60000000000000162
+t1395993302
+s354
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh
+c0000000053352AD6000000000000002F
+t1395993302
+s47
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh
+c0000000053352AD60000000000000103
+t1395993302
+s259
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_dependencies.txt
+t1395993304
+s462
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_generated_info.plist
+t1395993304
+s525
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist
+t1395993304
+s1012
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/PkgInfo
+t1395993304
+s8
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview
+t1395993303
+s135340
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos/libPods-JRSwizzle.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos/libPods-ViewUtils.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos/libPods-YIFullScreenScroll.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m
+c00000000533528300000000000001AAE
+t1395992624
+s6830
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets
+c00000000533528300000000000000088
+t1395992624
+s136
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/en.lproj/InfoPlist.strings
+c0000000053352830000000000000002D
+t1395992624
+s45
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m
+c0000000053352830000000000000015C
+t1395992624
+s348
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist
+c00000000533528300000000000000490
+t1395992624
+s1168
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Prefix.pch
+c0000000053352830000000000000017A
+t1395992624
+s378
+
+N/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld
+c00000000533528300000000000000088
+t1395992624
+s136
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies033f5a5662e5b841^58ab5a5662e5b841^---0#1#1#--18"Check dependencies36"617AD74F-0220-4493-8A05-73CCC781E77B-
+
+CCompileAssetCatalog /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets
+s417686103.302252
+e417686104.079711
+r1
+xCompileAssetCatalog
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app
+x/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/LaunchImage-700-568h@2x.png
+o/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Assets.car
+o/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/test_yiscrollview.app test_yiscrollview/Images.xcassets112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/test_yiscrollview.app test_yiscrollview/Images.xcassetse3714d5762e5b841^0168145862e5b841^-490"/* com.apple.actool.compilation-results *//Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/LaunchImage-700-568h@2x.png/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Assets.car/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@96"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets/0000000000000000^1676"CompileAssetCatalog Build/Products/Debug-iphonesimulator/test_yiscrollview.app test_yiscrollview/Images.xcassets    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/Images.xcassets36"A37B2A8C-847F-476B-B193-D6AEABE2365E-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CCompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686103.199987
+e417686103.262154
+r1
+xCompileC
+xBuild/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m
+d/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m238"CompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o test_yiscrollview/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf94b335762e5b841^041f435762e5b841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m0000000000000000^5140"CompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o test_yiscrollview/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o36"33E71D51-27C2-45F9-81C5-E816F3E72EE8-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CCompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686103.200138
+e417686103.229127
+r1
+xCompileC
+xBuild/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o
+x/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m
+d/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/BIDAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m218"CompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o test_yiscrollview/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2651335762e5b841^d2aa3a5762e5b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m0000000000000000^5080"CompileC Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o test_yiscrollview/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -include /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.dia -c /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/main.m -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o36"BD1F393A-A84C-448C-BC55-2F078A091CF1-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CCopyStringsFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings test_yiscrollview/en.lproj/InfoPlist.strings
+s417686103.301948
+e417686103.303752
+r1
+xCopyStringsFile
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings
+xtest_yiscrollview/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy test_yiscrollview/en.lproj/InfoPlist.strings146"CopyStringsFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings test_yiscrollview/en.lproj/InfoPlist.strings596a4d5762e5b841^22c44d5762e5b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/en.lproj/InfoPlist.strings0000000000000000^1043"CopyStringsFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj/InfoPlist.strings test_yiscrollview/en.lproj/InfoPlist.strings    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/en.lproj -- test_yiscrollview/en.lproj/InfoPlist.strings36"4D7FE8B5-0467-4401-BC92-A0FF8A4466D2-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CDataModelVersionCompile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld
+s417686102.368457
+e417686102.584329
+r1
+xDataModelVersionCompile
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd
+x/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"DataModelVersionCompile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd test_yiscrollview/test_yiscrollview.xcdatamodeld154"DataModelVersionCompile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd test_yiscrollview/test_yiscrollview.xcdatamodeldba665e5662e5b841^9297955662e5b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld/0000000000000000^1387"DataModelVersionCompile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd test_yiscrollview/test_yiscrollview.xcdatamodeld    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -XD_MOMC_IOS_TARGET_VERSION=7.1 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview.xcdatamodeld /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview.momd36"FBFF10EE-631A-4CE9-87D2-724806E41E61-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CGenerateDSYMFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview
+s417686104.082507
+e417686104.101222
+r1
+xGenerateDSYMFile
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generate /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM157"GenerateDSYMFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview0a2f155862e5b841^eeea195862e5b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM0034e032deffdf42^1147"GenerateDSYMFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app.dSYM36"D886A8B9-AF3F-4BA0-946F-CE266188F4DF-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CLd /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview normal i386
+s417686103.262833
+e417686103.301310
+r1
+xLd
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview
+xnormal
+xi386
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/test_yiscrollview.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/BIDAppDelegate.o
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-JRSwizzle.a
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-ViewUtils.a
+d/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/libPods-YIFullScreenScroll.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+old: warning: directory not found for option '-L/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview91"Ld Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview normal i3868e5c435762e5b841^2d234d5762e5b841^-129"ld: warning: directory not found for option '-L/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos'1(21%IDEActivityLogMessage2@115"Directory not found for option '-L/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos'-417686103#0#129#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#1#--2154"Ld Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview normal i386    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -L/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/build/Debug-iphoneos -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -filelist /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/test_yiscrollview.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework Foundation -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -lPods-JRSwizzle -lPods-ViewUtils -lPods-YIFullScreenScroll -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Objects-normal/i386/test_yiscrollview_dependency_info.dat -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/test_yiscrollview36"E98DCD7E-C5B9-435E-9561-DDF8954E98D5-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh
+s417686102.355084
+e417686102.367991
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'172"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.shb1315b5662e5b841^c6355e5662e5b841^---0#0#1#--430"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh    cd /Users/CashMacbook/Documents/project/test_yiscrollview    /bin/sh -c /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-BFEC50C9EB7543B886BCC500.sh36"EEFE56A2-46BA-427A-8BA2-C0F65F0AA5F2-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh
+s417686104.102135
+e417686104.117956
+r0
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh
+o/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-resources.sh: line 5: /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/resources-to-copy-test_yiscrollview.txt: Permission denied
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'167"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh3f6f1a5862e5b841^be331e5862e5b841^-206"/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-resources.sh: line 5: /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/resources-to-copy-test_yiscrollview.txt: Permission denied1(21%IDEActivityLogMessage2@205"/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Pods-resources.sh: line 5: /Users/CashMacbook/Documents/project/test_yiscrollview/Pods/resources-to-copy-test_yiscrollview.txt: Permission denied-417686104#0#206#-2#--29"Shell Script Invocation Error--0#0#1#--425"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh    cd /Users/CashMacbook/Documents/project/test_yiscrollview    /bin/sh -c /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/Script-5DAE5C6741204A2098955A87.sh36"284F42F6-E17A-48A7-8C8B-FC6B19CDDDC6-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CProcessInfoPlistFile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist
+s417686104.080132
+e417686104.082106
+r1
+xProcessInfoPlistFile
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist
+x/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Process /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist137"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist test_yiscrollview/test_yiscrollview-Info.plist7497145862e5b841^5c05155862e5b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist0000000000000000^1430"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist test_yiscrollview/test_yiscrollview-Info.plist    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    builtin-infoPlistUtility /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Info.plist -genpkginfo /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/assetcatalog_generated_info.plist -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app/Info.plist36"0CFD7D46-B30C-4A9B-AAEB-DEC93D0BA9A3-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CProcessPCH /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch test_yiscrollview/test_yiscrollview-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417686102.368795
+e417686103.199414
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch
+xtest_yiscrollview/test_yiscrollview-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile test_yiscrollview/test_yiscrollview-Prefix.pch251"ProcessPCH Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch test_yiscrollview/test_yiscrollview-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler06805e5662e5b841^630d335762e5b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Prefix.pch0000000000000000^4979"ProcessPCH Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch test_yiscrollview/test_yiscrollview-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/test_yiscrollview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.apportable/SDK/bin:/Users/CashMacbook/.nvm/v0.8.11/bin:/usr/local/mysql/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/CashMacbook/.rvm/bin:/Users/CashMacbook/android-sdks/platform-tools://Users/CashMacbook/android-sdks/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-generated-files.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/test_yiscrollview-project-headers.hmap -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -I/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/test_yiscrollview.build/Debug-iphonesimulator/test_yiscrollview.build/DerivedSources -F/Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/JRSwizzle -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/ViewUtils -isystem/Users/CashMacbook/Documents/project/test_yiscrollview/Pods/Headers/YIFullScreenScroll --serialize-diagnostics /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.d -c /Users/CashMacbook/Documents/project/test_yiscrollview/test_yiscrollview/test_yiscrollview-Prefix.pch -o /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Intermediates/PrecompiledHeaders/test_yiscrollview-Prefix-gvbdysykpxkupwfbuddhjtcpvsps/test_yiscrollview-Prefix.pch.pch36"21FFC232-B6C2-4F06-8E44-8E2DD6901292-
+bAB1F1811-2DDD-4BF2-9CD4-74D685B15DE8
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/test_yiscrollview-bepsrtirjjtgrratfcvtovlwragr/Index/PrecompiledHeaders/test_yiscrollview-Prefix-bnukzwcibzjafxecyttsiebpawnx_ast/test_yiscrollview-Prefix.pch.pch test_yiscrollview/test_yiscrollview-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/CashMacbook/Documents/project/test_yiscrollview/Build/Products/Debug-iphonesimulator/test_yiscrollview.app
+r0
+

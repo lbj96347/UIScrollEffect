@@ -7,6 +7,7 @@
 //
 
 #import "BIDAppDelegate.h"
+#import "TabBarViewController.h"
 
 @implementation BIDAppDelegate
 
@@ -20,6 +21,9 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    
+    TabBarViewController * tabBarViewController = [[TabBarViewController alloc]init];
+    [self.window setRootViewController:tabBarViewController];
     return YES;
 }
 
